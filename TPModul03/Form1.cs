@@ -16,5 +16,10 @@ namespace TPModul03
         {
             InitializeComponent();
         }
+
+        private void btnSubmit_Click(object sender, EventArgs e)
+        {
+            outputName.Text = "Halo, " + inputName.Text;
+        }
     }
 }

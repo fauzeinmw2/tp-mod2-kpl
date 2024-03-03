@@ -1,0 +1,10 @@
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\bin\Debug\TPModul03.exe.config
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\bin\Debug\TPModul03.exe
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\bin\Debug\TPModul03.pdb
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\obj\Debug\TPModul03.csproj.AssemblyReference.cache
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\obj\Debug\TPModul03.Form1.resources
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\obj\Debug\TPModul03.Properties.Resources.resources
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\obj\Debug\TPModul03.csproj.GenerateResource.cache
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\obj\Debug\TPModul03.csproj.CoreCompileInputs.cache
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\obj\Debug\TPModul03.exe
+D:\Telkom University\Semester 4\KPL\TPModul03\TPModul03\obj\Debug\TPModul03.pdb
